@@ -1,0 +1,21 @@
+[
+{
+  "modid": "enhancedarmor",
+  "name": "Enhanced armor",
+  "description": "mod tasda",
+  "version": "1.9.4-1.0",
+  "mcversion": "1.9.4",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "vangandr"
+  ],
+  "credits": "NO",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

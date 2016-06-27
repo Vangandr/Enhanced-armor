@@ -1,0 +1,26 @@
+Symbol range map extraction starting
+Processing 6 files
+startProcessing "com\vangandr\enhancedarmor\Enhancedarmor.java" md5: 2c09deabfbd2874dd2a31b6e98c29416
+Cache Hit!
+endProcessing "com\vangandr\enhancedarmor\Enhancedarmor.java"
+
+startProcessing "com\vangandr\enhancedarmor\proxy\ClientProxy.java" md5: 53980141cb46c2e0f4b2827304cdbdaa
+Cache Hit!
+endProcessing "com\vangandr\enhancedarmor\proxy\ClientProxy.java"
+
+startProcessing "com\vangandr\enhancedarmor\proxy\CommonProxy.java" md5: ddaae58cf8898f970636731aff360021
+Cache Hit!
+endProcessing "com\vangandr\enhancedarmor\proxy\CommonProxy.java"
+
+startProcessing "com\vangandr\enhancedarmor\proxy\IProxy.java" md5: e6b59815e386c17eecc00cd317709983
+Cache Hit!
+endProcessing "com\vangandr\enhancedarmor\proxy\IProxy.java"
+
+startProcessing "com\vangandr\enhancedarmor\proxy\ServerProxy.java" md5: d0791564c1de075d2d0596521a0388ed
+Cache Hit!
+endProcessing "com\vangandr\enhancedarmor\proxy\ServerProxy.java"
+
+startProcessing "com\vangandr\enhancedarmor\reference\Reference.java" md5: fd308d29e5eacb0526852f1eda8dde72
+Cache Hit!
+endProcessing "com\vangandr\enhancedarmor\reference\Reference.java"
+

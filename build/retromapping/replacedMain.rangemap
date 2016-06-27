@@ -1,0 +1,112 @@
+Symbol range map extraction starting
+Processing 6 files
+startProcessing "com\vangandr\enhancedarmor\Enhancedarmor.java" md5: 2c09deabfbd2874dd2a31b6e98c29416
+Cache Hit!
+@|com\vangandr\enhancedarmor\Enhancedarmor.java|8|34|com.vangandr.enhancedarmor|package|com.vangandr.enhancedarmor|(file)
+Class Start: com.vangandr.enhancedarmor.Enhancedarmor
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|442|445|Mod|class|net.minecraftforge.fml.common.Mod
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|446|451|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|454|463|Reference|class|com.vangandr.enhancedarmor.reference.Reference
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|464|470|MOD_ID|field|com.vangandr.enhancedarmor.reference.Reference|MOD_ID
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|472|476|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|479|488|Reference|class|com.vangandr.enhancedarmor.reference.Reference
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|489|497|MOD_NAME|field|com.vangandr.enhancedarmor.reference.Reference|MOD_NAME
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|499|506|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|509|518|Reference|class|com.vangandr.enhancedarmor.reference.Reference
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|519|526|VERSION|field|com.vangandr.enhancedarmor.reference.Reference|VERSION
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|541|554|Enhancedarmor|class|com.vangandr.enhancedarmor.Enhancedarmor
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|606|619|Enhancedarmor|class|com.vangandr.enhancedarmor.Enhancedarmor
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|560|572|Mod.Instance|class|net.minecraftforge.fml.common.Mod.Instance
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|573|582|Reference|class|com.vangandr.enhancedarmor.reference.Reference
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|583|589|MOD_ID|field|com.vangandr.enhancedarmor.reference.Reference|MOD_ID
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|606|619|Enhancedarmor|class|com.vangandr.enhancedarmor.Enhancedarmor
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|620|628|instance|field|com.vangandr.enhancedarmor.Enhancedarmor|instance|
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|746|752|IProxy|class|com.vangandr.enhancedarmor.proxy.IProxy
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|634|644|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|645|655|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|658|667|Reference|class|com.vangandr.enhancedarmor.reference.Reference
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|668|686|CLIENT_PROXY_CLASS|field|com.vangandr.enhancedarmor.reference.Reference|CLIENT_PROXY_CLASS
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|688|698|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|701|710|Reference|class|com.vangandr.enhancedarmor.reference.Reference
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|711|729|SERVER_PROXY_CLASS|field|com.vangandr.enhancedarmor.reference.Reference|SERVER_PROXY_CLASS
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|746|752|IProxy|class|com.vangandr.enhancedarmor.proxy.IProxy
+   @|com\vangandr\enhancedarmor\Enhancedarmor.java|753|758|proxy|field|com.vangandr.enhancedarmor.Enhancedarmor|proxy|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\vangandr\enhancedarmor\Enhancedarmor.java|828|833|event|param|com.vangandr.enhancedarmor.Enhancedarmor|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com\vangandr\enhancedarmor\Enhancedarmor.java|764|780|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\vangandr\enhancedarmor\Enhancedarmor.java|794|801|preInit|method|com.vangandr.enhancedarmor.Enhancedarmor|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\vangandr\enhancedarmor\Enhancedarmor.java|802|827|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\vangandr\enhancedarmor\Enhancedarmor.java|904|909|event|param|com.vangandr.enhancedarmor.Enhancedarmor|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com\vangandr\enhancedarmor\Enhancedarmor.java|846|862|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\vangandr\enhancedarmor\Enhancedarmor.java|876|880|init|method|com.vangandr.enhancedarmor.Enhancedarmor|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\vangandr\enhancedarmor\Enhancedarmor.java|881|903|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\vangandr\enhancedarmor\Enhancedarmor.java|988|993|event|param|com.vangandr.enhancedarmor.Enhancedarmor|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|com\vangandr\enhancedarmor\Enhancedarmor.java|922|938|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|com\vangandr\enhancedarmor\Enhancedarmor.java|952|960|postInit|method|com.vangandr.enhancedarmor.Enhancedarmor|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com\vangandr\enhancedarmor\Enhancedarmor.java|961|987|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.vangandr.enhancedarmor.Enhancedarmor
+endProcessing "com\vangandr\enhancedarmor\Enhancedarmor.java"
+
+startProcessing "com\vangandr\enhancedarmor\proxy\ClientProxy.java" md5: 53980141cb46c2e0f4b2827304cdbdaa
+Cache Hit!
+@|com\vangandr\enhancedarmor\proxy\ClientProxy.java|8|40|com.vangandr.enhancedarmor.proxy|package|com.vangandr.enhancedarmor.proxy|(file)
+Class Start: com.vangandr.enhancedarmor.proxy.ClientProxy
+   @|com\vangandr\enhancedarmor\proxy\ClientProxy.java|56|67|ClientProxy|class|com.vangandr.enhancedarmor.proxy.ClientProxy
+   @|com\vangandr\enhancedarmor\proxy\ClientProxy.java|76|87|CommonProxy|class|com.vangandr.enhancedarmor.proxy.CommonProxy
+Class End  : com.vangandr.enhancedarmor.proxy.ClientProxy
+endProcessing "com\vangandr\enhancedarmor\proxy\ClientProxy.java"
+
+startProcessing "com\vangandr\enhancedarmor\proxy\CommonProxy.java" md5: ddaae58cf8898f970636731aff360021
+Cache Hit!
+@|com\vangandr\enhancedarmor\proxy\CommonProxy.java|8|40|com.vangandr.enhancedarmor.proxy|package|com.vangandr.enhancedarmor.proxy|(file)
+Class Start: com.vangandr.enhancedarmor.proxy.CommonProxy
+   @|com\vangandr\enhancedarmor\proxy\CommonProxy.java|65|76|CommonProxy|class|com.vangandr.enhancedarmor.proxy.CommonProxy
+   @|com\vangandr\enhancedarmor\proxy\CommonProxy.java|88|94|IProxy|class|com.vangandr.enhancedarmor.proxy.IProxy
+Class End  : com.vangandr.enhancedarmor.proxy.CommonProxy
+endProcessing "com\vangandr\enhancedarmor\proxy\CommonProxy.java"
+
+startProcessing "com\vangandr\enhancedarmor\proxy\IProxy.java" md5: e6b59815e386c17eecc00cd317709983
+Cache Hit!
+@|com\vangandr\enhancedarmor\proxy\IProxy.java|8|40|com.vangandr.enhancedarmor.proxy|package|com.vangandr.enhancedarmor.proxy|(file)
+Class Start: com.vangandr.enhancedarmor.proxy.IProxy
+   @|com\vangandr\enhancedarmor\proxy\IProxy.java|60|66|IProxy|class|com.vangandr.enhancedarmor.proxy.IProxy
+Class End  : com.vangandr.enhancedarmor.proxy.IProxy
+endProcessing "com\vangandr\enhancedarmor\proxy\IProxy.java"
+
+startProcessing "com\vangandr\enhancedarmor\proxy\ServerProxy.java" md5: d0791564c1de075d2d0596521a0388ed
+Cache Hit!
+@|com\vangandr\enhancedarmor\proxy\ServerProxy.java|8|40|com.vangandr.enhancedarmor.proxy|package|com.vangandr.enhancedarmor.proxy|(file)
+Class Start: com.vangandr.enhancedarmor.proxy.ServerProxy
+   @|com\vangandr\enhancedarmor\proxy\ServerProxy.java|56|67|ServerProxy|class|com.vangandr.enhancedarmor.proxy.ServerProxy
+   @|com\vangandr\enhancedarmor\proxy\ServerProxy.java|76|87|CommonProxy|class|com.vangandr.enhancedarmor.proxy.CommonProxy
+Class End  : com.vangandr.enhancedarmor.proxy.ServerProxy
+endProcessing "com\vangandr\enhancedarmor\proxy\ServerProxy.java"
+
+startProcessing "com\vangandr\enhancedarmor\reference\Reference.java" md5: fd308d29e5eacb0526852f1eda8dde72
+Cache Hit!
+@|com\vangandr\enhancedarmor\reference\Reference.java|8|44|com.vangandr.enhancedarmor.reference|package|com.vangandr.enhancedarmor.reference|(file)
+Class Start: com.vangandr.enhancedarmor.reference.Reference
+   @|com\vangandr\enhancedarmor\reference\Reference.java|60|69|Reference|class|com.vangandr.enhancedarmor.reference.Reference
+   @|com\vangandr\enhancedarmor\reference\Reference.java|96|102|String|class|java.lang.String
+   @|com\vangandr\enhancedarmor\reference\Reference.java|96|102|String|class|java.lang.String
+   @|com\vangandr\enhancedarmor\reference\Reference.java|103|109|MOD_ID|field|com.vangandr.enhancedarmor.reference.Reference|MOD_ID|
+   @|com\vangandr\enhancedarmor\reference\Reference.java|153|159|String|class|java.lang.String
+   @|com\vangandr\enhancedarmor\reference\Reference.java|153|159|String|class|java.lang.String
+   @|com\vangandr\enhancedarmor\reference\Reference.java|160|168|MOD_NAME|field|com.vangandr.enhancedarmor.reference.Reference|MOD_NAME|
+   @|com\vangandr\enhancedarmor\reference\Reference.java|213|219|String|class|java.lang.String
+   @|com\vangandr\enhancedarmor\reference\Reference.java|213|219|String|class|java.lang.String
+   @|com\vangandr\enhancedarmor\reference\Reference.java|220|227|VERSION|field|com.vangandr.enhancedarmor.reference.Reference|VERSION|
+   @|com\vangandr\enhancedarmor\reference\Reference.java|267|273|String|class|java.lang.String
+   @|com\vangandr\enhancedarmor\reference\Reference.java|267|273|String|class|java.lang.String
+   @|com\vangandr\enhancedarmor\reference\Reference.java|274|292|CLIENT_PROXY_CLASS|field|com.vangandr.enhancedarmor.reference.Reference|CLIENT_PROXY_CLASS|
+   @|com\vangandr\enhancedarmor\reference\Reference.java|367|373|String|class|java.lang.String
+   @|com\vangandr\enhancedarmor\reference\Reference.java|367|373|String|class|java.lang.String
+   @|com\vangandr\enhancedarmor\reference\Reference.java|374|392|SERVER_PROXY_CLASS|field|com.vangandr.enhancedarmor.reference.Reference|SERVER_PROXY_CLASS|
+Class End  : com.vangandr.enhancedarmor.reference.Reference
+endProcessing "com\vangandr\enhancedarmor\reference\Reference.java"
+
